@@ -139,6 +139,23 @@
 	--blueBtn: #268bd2;
 	--blueBtn-bottom: #2074b1;
 }
+:root[theme = "gruvbox"]{
+	--background: #242424;
+	--text: #fffefd;
+	--box-main: #32302f;
+	--box-toggle: #282828;
+	--box-separation: #504945;
+	--box-toggleOn: #458588;
+	--item-bg: #eebd35;
+	--select: #98971a;
+	--greenBtn:#8ec07c;
+	--greenBtn-bottom:#689D6A;
+	--redBtn: #fb4934;
+	--redBtn-bottom: #cc241d;
+	--blueBtn: #7fa2ac;
+	--blueBtn-bottom: #458588;
+
+}
 
 body {
 	background-color: var(--background);
